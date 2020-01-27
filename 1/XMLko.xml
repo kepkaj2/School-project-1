@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl.xsl"?>
+  
+ <semestralka xsi:noNamespaceSchemaLocation="xsd.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                    
+      <literatura category="četba k BP">
+      <title lang="cz">Řízení lidských zdrojů: moderní pojetí a postupy</title>
+      <autor>ARMSTRONG, M</autor>
+      <rok>2015</rok> 
+      <vydavatel>Grada Publishing</vydavatel>
+      <iban> 978-80-247-5258-7.</iban>
+      </literatura>
+          
+    <literatura category="četba k BP">
+      <title lang="cz">Řízení lidských zdrojů</title>
+      <autor>DVOŘÁKOVÁ, Z</autor>
+      <rok>2012</rok>
+      <vydavatel>C.H. Beck</vydavatel>
+      <iban> 978-80-7400-347-9.</iban>
+      </literatura>
+      
+    
+    <literatura category="četba k BP">
+      <title lang="cz">Řízení lidských zdrojů: nové trendy</title>
+      <autor>HORVÁTHOVÁ, P</autor>
+      <rok>2016</rok>
+      <vydavatel>Management Press</vydavatel>
+      <iban>978-80-7261-430-1.</iban>
+      </literatura>
+      
+    
+    <literatura category="četba k BP">
+      <title lang="cz"> Personální činnosti a metody personální práce</title>
+      <autor>KOCIANOVÁ, R</autor>
+      <rok>2010</rok>
+      <vydavatel>Grada Publishing</vydavatel>
+      <iban>978-80-247-2497-3</iban>
+      </literatura>
+      
+       
+    <literatura category="četba k BP">
+      <title lang="cz">  Řízení lidských zdrojů: Základy moderní personalistiky</title>
+      <autor>KOUBEK, J. </autor>
+      <rok>2015</rok>
+      <vydavatel>Management Press</vydavatel>
+      <iban>978-80-7261-288-8</iban>
+      </literatura>
+      
+    
+    <literatura category="četba k BP">
+      <title lang="en">  Fundamentals of human resource management: functions, applications, skill development</title>
+      <autor>LUSSIER, R</autor>
+      <rok>2017</rok>
+      <vydavatel>Sage, Los Angeles</vydavatel>
+      <iban>978-1483358505</iban>
+      </literatura>
+      
+    
+    <literatura category="četba k BP">
+      <title lang="cz">Personalistika pro manažery a personalisty</title>
+      <autor>	ŠIKÝŘ, M</autor>
+      <rok>2016</rok>
+      <vydavatel> Grada Publishing</vydavatel>
+      <iban>978-80-247-5870-1</iban>
+      </literatura>
+      
+    
+    <literatura category="četba k BP">
+      <title lang="cz">Jak hledat zaměstnance v 21. století</title>
+      <autor>	TENGZE, J</autor>
+      <rok>2016</rok>
+      <vydavatel> Grada Publishing</vydavatel>
+      <iban>978-80-271-0551-9</iban>
+      </literatura>
+      
+    
+    <literatura category="četba k BP">
+      <title lang="cz"> Meet Generation Z: Understanding and Reaching the New Post-Christian World</title>
+      <autor>WHITE, J. E</autor>
+      <rok>2018</rok>
+      <vydavatel> Baker Books</vydavatel>
+      <iban>978-0801017018</iban>
+      </literatura>
+      
+      
+    
+    <generace category="různé generace">
+        <typgenerace>Generace Z</typgenerace>
+        <od-do>1996-2019</od-do>
+        <informace>Internetová generace</informace>
+        </generace>
+        
+        <generace category="různé generace">
+          <typgenerace>Generace Y</typgenerace>
+          <od-do>1982-2000</od-do>
+          <informace>Ekonomicky aktivní, děti generace X. Méně časté sňatky.</informace>
+        </generace>
+          
+        
+        <generace category="různé generace">
+          <typgenerace>Generace X</typgenerace>
+          <od-do>1960-1980</od-do>
+          <informace>Více koukají na televizi, čtou noviny a poslouchají rádio.</informace>
+        </generace>
+          
+        
+        <generace category="různé generace">
+          <typgenerace>Baby boomers</typgenerace>
+          <od-do>1946-1964</od-do>
+          <informace>Po válce začali mít více potomků.</informace>
+        </generace>
+          
+        
+        <generace category="různé generace">
+          <typgenerace>Greatest generation</typgenerace>
+          <od-do>1900-1920</od-do>
+          <informace>Lidé, co zaznamenali velký pokrok technologie.</informace>
+        </generace>
+          
+        
+        
+        <metody category = "typy výběru">
+            <výběr>Životopis</výběr>
+            <výhoda>Rychlost výběru</výhoda>
+            <nevýhoda>Neosobní styk, nejasnosti.</nevýhoda>
+            </metody>
+            
+            <metody category = "typy výběru">
+              <výběr>Dotazník</výběr>
+              <výhoda>Účastník není pod stresem</výhoda>
+              <nevýhoda>Vytvoření dotazníku je nákladné</nevýhoda>
+            </metody>
+              
+            
+            <metody category = "typy výběru">
+              <výběr>Reference</výběr>
+              <výhoda>Máme již o zájemci přímé informace</výhoda>
+              <nevýhoda>Málo časté, reference můžou být klamné</nevýhoda>
+            </metody>
+              
+              
+            <metody category = "typy výběru">
+              <výběr>Testování</výběr>
+              <výhoda>Přesné údaje, lze vyzkoušet praktické věci</výhoda>
+              <nevýhoda>Zájemce může být pod stressem.</nevýhoda>    
+            </metody>
+              
+              
+            <metody category = "typy výběru">
+              <výběr>Assesment</výběr>
+              <výhoda>Podrobné testování</výhoda>
+              <nevýhoda>Nákladné, časově náročné</nevýhoda>  
+            </metody>
+
+            
+ </semestralka>
+                          
+                        
+              
+              
+            
+        
+        
+        
+    

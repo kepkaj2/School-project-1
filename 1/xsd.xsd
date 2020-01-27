@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="semestralka">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="literatura">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="title">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="lang" type="xs:string" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="autor" type="xs:string" />
+              <xs:element name="rok" type="xs:unsignedShort" />
+              <xs:element name="vydavatel" type="xs:string" />
+              <xs:element minOccurs="0" name="iban" type="xs:string" />
+            </xs:sequence>
+            <xs:attribute name="category" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="iban" type="xs:string" />
+        <xs:element maxOccurs="unbounded" name="generace">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="typgenerace" type="xs:string" />
+              <xs:element name="od-do" type="xs:string" />
+              <xs:element name="informace" type="xs:string" />
+            </xs:sequence>
+            <xs:attribute name="category" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element maxOccurs="unbounded" name="metody">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="výbìr" type="xs:string" />
+              <xs:element name="výhoda" type="xs:string" />
+              <xs:element name="nevýhoda" type="xs:string" />
+            </xs:sequence>
+            <xs:attribute name="category" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
